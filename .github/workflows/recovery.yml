@@ -4,7 +4,7 @@ on:
   workflow_dispatch:
     inputs:
       RECOVERY_URL:
-        description: 'RECOVERY URL'
+        description: 'https://transfer.sh/zmL17A/recovery.img.lz4'
         required: true
         default: 'https://www.filesend.jp/l/en-US/OYkUQ4'
 
